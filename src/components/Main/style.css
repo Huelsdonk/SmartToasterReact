@@ -1,0 +1,14 @@
+body {
+    font-family: 'Alata', sans-serif;
+    background: lightblue;
+}
+
+img {
+    max-width: 50%;
+    margin: auto;
+}
+
+.card {
+    background: aliceblue;
+    min-height: 300px;
+}
